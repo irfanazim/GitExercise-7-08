@@ -8,3 +8,4 @@ The lecturer was very boring.
 He was confused with git.
 He couldn't figure out the exercise.
 He stressed out.
+He was crying.
